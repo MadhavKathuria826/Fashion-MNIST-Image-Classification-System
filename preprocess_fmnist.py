@@ -1,5 +1,4 @@
-﻿#!/usr/bin/env python
-"""Preprocess FMNIST_TRAIN.csv and FMNIST_TEST.csv into a validated NPZ bundle."""
+﻿"""Preprocess FMNIST_TRAIN.csv and FMNIST_TEST.csv into a validated NPZ bundle."""
 
 from __future__ import annotations
 
